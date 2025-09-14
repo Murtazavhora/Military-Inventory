@@ -21,7 +21,7 @@ Operation Military Inventory is a web-based platform that showcases the latest a
 
 1. **Clone the repository:**
    ```bash
-   git clone <your-repo-url>
+   git clone https://github.com/Murtazavhora/Military-Inventory.git
    ```
 2. **Open the project folder in VS Code or your preferred IDE.**
 3. **To view the website locally:**
@@ -35,7 +35,6 @@ Operation Military Inventory is a web-based platform that showcases the latest a
 military project/
 │
 ├── index.html
-├── team.html
 ├── blog.html
 ├── feedback_page.html
 ├── contact_page.html
